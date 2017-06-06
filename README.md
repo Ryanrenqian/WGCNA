@@ -1,2 +1,2 @@
 # WGCNA
-# This is my Rscript for WGCNA in bioinformatic analysis
+# This is my own Rscript for WGCNA in bioinformatic analysis
